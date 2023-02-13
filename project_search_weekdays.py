@@ -95,5 +95,7 @@ def main():
 
     search_weekdays(surplus, day, month, year)
 
+    print("hello")
+
 if __name__ == "__main__": 
     main() 
